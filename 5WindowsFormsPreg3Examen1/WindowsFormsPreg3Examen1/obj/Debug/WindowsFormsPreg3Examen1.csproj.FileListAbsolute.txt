@@ -1,0 +1,11 @@
+C:\Users\ROTAX\source\repos\WindowsFormsPreg3Examen1\WindowsFormsPreg3Examen1\bin\Debug\WindowsFormsPreg3Examen1.exe.config
+C:\Users\ROTAX\source\repos\WindowsFormsPreg3Examen1\WindowsFormsPreg3Examen1\bin\Debug\WindowsFormsPreg3Examen1.exe
+C:\Users\ROTAX\source\repos\WindowsFormsPreg3Examen1\WindowsFormsPreg3Examen1\bin\Debug\WindowsFormsPreg3Examen1.pdb
+C:\Users\ROTAX\source\repos\WindowsFormsPreg3Examen1\WindowsFormsPreg3Examen1\obj\Debug\WindowsFormsPreg3Examen1.csproj.AssemblyReference.cache
+C:\Users\ROTAX\source\repos\WindowsFormsPreg3Examen1\WindowsFormsPreg3Examen1\obj\Debug\WindowsFormsPreg3Examen1.Form1.resources
+C:\Users\ROTAX\source\repos\WindowsFormsPreg3Examen1\WindowsFormsPreg3Examen1\obj\Debug\WindowsFormsPreg3Examen1.Properties.Resources.resources
+C:\Users\ROTAX\source\repos\WindowsFormsPreg3Examen1\WindowsFormsPreg3Examen1\obj\Debug\WindowsFormsPreg3Examen1.csproj.GenerateResource.cache
+C:\Users\ROTAX\source\repos\WindowsFormsPreg3Examen1\WindowsFormsPreg3Examen1\obj\Debug\WindowsFormsPreg3Examen1.csproj.CoreCompileInputs.cache
+C:\Users\ROTAX\source\repos\WindowsFormsPreg3Examen1\WindowsFormsPreg3Examen1\obj\Debug\WindowsFormsPreg3Examen1.exe
+C:\Users\ROTAX\source\repos\WindowsFormsPreg3Examen1\WindowsFormsPreg3Examen1\obj\Debug\WindowsFormsPreg3Examen1.pdb
+C:\Users\ROTAX\source\repos\WindowsFormsPreg3Examen1\WindowsFormsPreg3Examen1\obj\Debug\WindowsFormsPreg3Examen1.Form2.resources
